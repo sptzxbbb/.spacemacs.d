@@ -313,7 +313,6 @@ explicitly specified that a variable should be set before a package is loaded,
 you should place your code here."
   (setq-default org-download-image-dir "~/Pictures")
   (delete-selection-mode t)
-  (global-git-commit-mode t)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
